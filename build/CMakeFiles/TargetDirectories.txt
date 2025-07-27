@@ -1,0 +1,3 @@
+/home/chipen/code/udp_stack/build/CMakeFiles/ustack.dir
+/home/chipen/code/udp_stack/build/CMakeFiles/edit_cache.dir
+/home/chipen/code/udp_stack/build/CMakeFiles/rebuild_cache.dir
